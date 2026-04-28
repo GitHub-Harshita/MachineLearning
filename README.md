@@ -90,18 +90,8 @@ The project includes:
 ```bash
 Stock-Price-Prediction/
 │
-├── dataset/
-│   └── sp500_top10.csv
-│
-├── notebooks/
-│   └── stock_prediction.ipynb
-│
-├── models/
-│   └── saved_models/
-│
-├── images/
-│   └── performance_graph.png
-│
+├── Final report (1).pdf
 ├── README.md
-│
-└── requirements.txt
+├── basics.pdf
+├── s&p500filtered.csv
+├── s&p500predictions.ipynb
